@@ -12,7 +12,7 @@ https://jsfiddle.net/sumitagr/3fzubq6g/
 
 ## Built With
 
-* [jQuery](https://jquery.com/) - jQuery
+* [jQuery](https://jquery.com/) - jQuery (JavaScript Library)
 * JavaScript
 * HTML
 * CSS
